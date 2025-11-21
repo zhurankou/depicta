@@ -53,7 +53,7 @@
 body {
   margin: auto auto;
   width: 376px;
-  background: var(--white-00);
+  background: var(--msft-yellow);
   color: var(--black-80);
 }
 
